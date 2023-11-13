@@ -15,6 +15,6 @@
 <img align="left" alt="CSS" width="24px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" style="padding-right:10px;" />
 <img align="left" alt="Javascript" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" style="padding-right:0px;" />
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anandasheva&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anandasheva&layout=compact)
 
 
