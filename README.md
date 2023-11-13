@@ -2,7 +2,6 @@
 
 - 👀 I.m interested in UI / UX Design and Web Developer
 - 🌱 I’m currently learning Python, Java, HTML, CSS, and Javascript
-- 👯 I’m looking to collaborate as UI Design
 - 💬 Ask me about anything
 - 📫 How to reach me : <a href="https://www.instagram.com/shevaananda_/" target="_blank">Instagram</a> or <a href="https://wa.me/6285709567374" target="_blank">Whatsapp</a>
 
