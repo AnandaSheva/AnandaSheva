@@ -5,8 +5,6 @@
 - 💬 Ask me about anything
 - 📫 How to reach me : <a href="https://www.instagram.com/shevaananda_/" target="_blank">Instagram</a> or sheva1257@gmail.com
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anandasheva&layout=compact)
-
 ### Languages & tools :
 
 <img align="left" alt="C++" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" style="padding-right:10px;" />
@@ -16,7 +14,7 @@
 <img align="left" alt="CSS" width="24px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" style="padding-right:10px;" />
 <img align="left" alt="Javascript" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" style="padding-right:0px;" />
 
-## .
+# .
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anandasheva&layout=compact)
 
 
