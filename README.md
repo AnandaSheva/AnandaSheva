@@ -1,4 +1,4 @@
-## Hi There, Im Sheva 👋
+## Hi There, Im Sheva <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px">
 
 - 👀 I.m interested in UI / UX Design and Web Developer
 - 🌱 I’m currently learning Python, Java, HTML, CSS, and Javascript
