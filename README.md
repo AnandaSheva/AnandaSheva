@@ -23,6 +23,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anandasheva&show_icons=true&locale=en&layout=compact" alt="anandasheva" /></p>
 <a href="https://github.com/anandasheva/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=anandasheva" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=anandasheva" />
 </a>
 
