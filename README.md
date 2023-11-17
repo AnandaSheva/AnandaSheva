@@ -4,11 +4,11 @@
 - 🌱 I’m currently learning Python, Java, HTML, CSS, and Javascript
 - 💬 Ask me about anything
 - 📫 How to reach me : sheva1257@gmail.com
-
-<h3 align="left">Connect with me:</h3>
-<a href="https://github.com/anandasheva/github-readme-stats">
+- <a href="https://github.com/anandasheva/github-readme-stats">
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=anandasheva" />
 </a>
+
+<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/shevaananda_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shevaananda_" height="30" width="40" /></a>
 <a href="https://twitter.com/shevaananda_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shevaananda_" height="30" width="40" /></a>
