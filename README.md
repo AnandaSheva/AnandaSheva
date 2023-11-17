@@ -23,3 +23,4 @@
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anandasheva&show_icons=true&locale=en&layout=compact" alt="anandasheva" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=anandasheva\&rank_icon=github" /></p>
