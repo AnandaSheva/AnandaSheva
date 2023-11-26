@@ -1,7 +1,7 @@
 ## Hi There, Im Sheva <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px">
 
 - 👀 I.m interested in UI / UX Design and Web Developer
-- 🌱 I’m currently learning Python, Java, HTML, CSS, and Javascript
+- 🌱 I’m currently learning C++, Python, Java, HTML, CSS, and Javascript
 - 💬 Ask me about anything
 - 📫 How to reach me : sheva1257@gmail.com
 
