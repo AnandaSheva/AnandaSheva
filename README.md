@@ -8,7 +8,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/shevaananda_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shevaananda_" height="30" width="40" /></a>
-<a href="https://twitter.com/shevaananda_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shevaananda_" height="30" width="40" /></a>
+<a href="https://twitter.com/shevaananda_" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/ce/X_logo_2023.svg" alt="shevaananda_" height="30" width="35" /></a>
 <a href="https://linkedin.com/in/anandashevahidayat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anandashevahidayat" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/profile/B_AnandaSheva" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="B_AnandaSheva" height="30" width="40" /></a>
                                            
