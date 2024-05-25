@@ -3,7 +3,7 @@
 - 👀 I.m interested in Web Developer and UI / UX Design
 - 🌱 I’m currently learning C++, Python, Java, HTML, CSS, and Javascript
 - 💬 Ask me about anything
-- 📫 How to reach me : sheva1257@gmail.com
+- 📫 How to reach me : sheva1257@gmail.com or +62-857-095-673-74
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
