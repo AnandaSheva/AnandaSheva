@@ -2,6 +2,7 @@
 
 - 👀 I.m interested in Web Developer and UI / UX Design
 - 🌱 I’m currently learning Python, PHP, HTML, CSS, and Javascript
+- 👯 I’m looking to collaborate on any project commercially/voluntarily
 - 💬 Ask me about anything
 - 📫 How to reach me : sheva1257@gmail.com or +62-857-0956-7374
 
