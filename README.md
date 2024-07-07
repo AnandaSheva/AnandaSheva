@@ -34,6 +34,7 @@
 <h3 align="left">Databases :</h3>
 <p align="left">
 <a href="https://dev.mysql.com/"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/MySQL_textlogo.svg" alt="mysql" width="40" height="40"/> </a>
+<a href="https://www.sqlite.org/index.html"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/97/Sqlite-square-icon.svg" alt="mysql" width="40" height="40"/> </a>
 <a href="https://www.mongodb.com/lp/cloud/atlas/try4?utm_source=bing&utm_campaign=search_bs_pl_evergreen_atlas_core_prosp-brand_gic-null_apac-id_ps-all_desktop_eng_lead&utm_term=mongodb&utm_medium=cpc_paid_search&utm_ad=e&utm_ad_campaign_id=415204525&adgroup=1212761794897445&msclkid=5a2f116679bc1e50caad77eebbcb3557"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/MongoDB_Logo.svg" alt="mongodb" width="40" height="40"/> </a>
 
 <h3 align="left">Frameworks :</h3>
