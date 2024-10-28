@@ -7,7 +7,7 @@
 ## Hi there, im Sheva <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px">
 
 - 👀 I.m interested in Web Developer and UI / UX Design
-- 🌱 I’m currently learning Python, PHP, HTML, CSS, and Javascript
+- 🌱 I’m currently learning DevOps, TensorFlow
 - 👯 I’m looking to collaborate on any project commercially/voluntarily
 - 💬 Ask me about anything
 - 📫 How to reach me: sheva1257@gmail.com or +62-857-0956-7374
@@ -21,27 +21,22 @@
 
 ##
                                            
-<h3 align="left">Languages :</h3>
+<h3 align="left">Tech Stack:</h3>
 <p align="left">
-<a href="https://www.w3schools.com/cpp/"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="cplusplus" width="40" height="40"/></a> 
-<a href="https://www.python.org"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
-<a href="https://www.java.com"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
-<a href="https://www.w3schools.com/html/"> <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="html5" width="40" height="40"/></a>
-<a href="https://www.w3schools.com/css/"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="css3" width="40" height="40"/></a>
 <a href="https://www.w3schools.com/js/"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" alt="js" width="40" height="40"/></a>
-<a href="https://kotlinlang.org/"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/06/Kotlin_Icon.svg" alt="kotlin" width="40" height="40"/></a>
-<a href="https://www.php.net/"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" alt="php" width="40" height="40"/></a>
-<a href="https://go.dev/"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Go_Logo_Blue.svg" alt="GO" width="40" height="40"/></a>
-<a href="https://dev.mysql.com/"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/MySQL_textlogo.svg" alt="mysql" width="40" height="40"/> </a>
-
-<h3 align="left">Tools :</h3>
+<a href="https://www.php.net/"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" alt="php" width="40" height="40"/></a> 
+<a href="https://www.python.org/"> <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" width="40" height="40"/></a> 
+<a href="https://www.java.com"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
+<a href="https://www.w3schools.com/cpp/"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="cplusplus" width="40" height="40"/></a> 
 <p align="left">
-<a href="https://code.visualstudio.com/"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="vscode" width="40" height="40"/></a>
-<a href="https://www.figma.com/"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" alt="figma" width="40" height="40"/></a>
-<a href="https://www.notion.so/"> <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg" alt="notion" width="40" height="40"/></a>
-
-<h3 align="left">Frameworks :</h3>
+<a href="https://www.tensorflow.org/"> <img src="https://cdn.worldvectorlogo.com/logos/tensorflow-2.svg" alt="cplusplus" width="40" height="40"/></a> 
+<a href="https://kotlinlang.org/"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/06/Kotlin_Icon.svg" alt="kotlin" width="40" height="40"/></a>
+<a href="https://www.postman.com/"> <img src="https://cdn.worldvectorlogo.com/logos/postman.svg" alt="php" width="40" height="40"/></a>
+<a href="https://go.dev/"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Go_Logo_Blue.svg" alt="GO" width="40" height="40"/></a>
+<a href="https://go.dev/"> <img src="https://cdn.worldvectorlogo.com/logos/google-cloud-1.svg" alt="GO" width="40" height="40"/></a>
 <p align="left">
 <a href="https://laravel.com/"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" alt="laravel" width="40" height="40"/></a>
 <a href="https://react.dev/"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/30/React_Logo_SVG.svg" alt="react" width="40" height="40"/></a>
 <a href="https://expressjs.com/"> <img src="https://adware-technologies.s3.amazonaws.com/uploads/technology/thumbnail/20/express-js.png" alt="react" width="40" height="40"/></a>
+<a href="https://nextjs.org/"> <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" alt="react" width="40" height="40"/></a>
+<a href="https://dev.mysql.com/"> <img src="https://cdn.worldvectorlogo.com/logos/mysql-logo-pure.svg" alt="mysql" width="40" height="40"/> </a>
