@@ -1,9 +1,3 @@
-<h3 align="left"></h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anandasheva&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="anandasheva" /></p>
-<a href="https://github.com/anandasheva/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=anandasheva&theme=tokyonight" />
-</a>
-
 ## Hi there, im Sheva <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px">
 
 - 👀 I.m interested in Web Developer and UI / UX Design
@@ -41,3 +35,10 @@
 <a href="https://expressjs.com/" target="blank"> <img src="https://adware-technologies.s3.amazonaws.com/uploads/technology/thumbnail/20/express-js.png" alt="expressjs" width="40" height="40"/></a>
   <a href="https://www.postman.com/" target="blank"> <img src="https://cdn.worldvectorlogo.com/logos/postman.svg" alt="postman" width="40" height="40"/></a>
 <a href="https://dev.mysql.com/" target="blank"> <img src="https://cdn.worldvectorlogo.com/logos/mysql-logo-pure.svg" alt="mysql" width="40" height="40"/> </a>
+
+##
+<h3 align="left">🕹 Stats:</h3>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anandasheva&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="anandasheva" /></p>
+<a href="https://github.com/anandasheva/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=anandasheva&theme=tokyonight" />
+</a>
