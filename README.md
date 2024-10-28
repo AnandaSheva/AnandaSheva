@@ -1,11 +1,9 @@
 ## Hi there, im Sheva <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px">
 
-- 👀 I.m interested in Web Developer and UI / UX Design
+- 👀 I.m interested in Web Developer, UI / UX Design, and Mobile Developer
 - 🌱 I’m currently learning DevOps, TensorFlow
-- 👯 I’m looking to collaborate on any project commercially/voluntarily
 - 💬 Ask me about anything
 - 📫 How to reach me: sheva1257@gmail.com or +62-857-0956-7374
-- 🌐 Visit me on my wesite: https://anandasheva.vercel.app/
   
 ##
 <h3 align="left">🔗 Connect with me:</h3>
