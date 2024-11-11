@@ -35,7 +35,7 @@
 <a href="https://dev.mysql.com/" target="blank"> <img src="https://cdn.worldvectorlogo.com/logos/mysql-logo-pure.svg" alt="mysql" width="40" height="40"/> </a>
 
 ##
-<h3 align="left">🕹 Stats:</h3>
+<h3 align="left">🕹 Github Stats:</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anandasheva&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="anandasheva" /></p>
 <a href="https://github.com/anandasheva/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=anandasheva&theme=tokyonight" />
