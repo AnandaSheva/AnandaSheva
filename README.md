@@ -17,10 +17,10 @@
 <h3 align="left">💻 Tech Stack:</h3>
 <p align="left">
 <a href="https://www.w3schools.com/js/" target="blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" alt="js" width="40" height="40"/></a>
+<a href="https://kotlinlang.org/" target="blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/06/Kotlin_Icon.svg" alt="kotlin" width="40" height="40"/></a>
 <a href="https://www.php.net/" target="blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" alt="php" width="40" height="40"/></a> 
 <a href="https://www.python.org/" target="blank"> <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="python" width="40" height="40"/></a> 
 <a href="https://www.java.com" target="blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
-<a href="https://kotlinlang.org/" target="blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/06/Kotlin_Icon.svg" alt="kotlin" width="40" height="40"/></a>
 <p align="left">
 <a href="https://www.tensorflow.org/" target="blank"> <img src="https://cdn.worldvectorlogo.com/logos/tensorflow-2.svg" alt="TensorFlow" width="40" height="40"/></a>
 <a href="https://keras.io/" target="blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" alt="Keras" width="40" height="40"/></a>
