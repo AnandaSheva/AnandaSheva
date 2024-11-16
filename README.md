@@ -7,24 +7,23 @@
   
 ##
 <h3 align="left">🔗 Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/shevaananda_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shevaananda_" height="30" width="40" /></a>
-<a href="https://twitter.com/shevaananda_" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/ce/X_logo_2023.svg" alt="shevaananda_" height="30" width="30" /></a>
-<a href="https://linkedin.com/in/anandashevahidayat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anandashevahidayat" height="30" width="40" /></a>
-<a href="https://medium.com/@sheva1257" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/medium-1.svg" alt="@sheva1257" height="30" width="40" /></a>
+<div align="left">
+<a href="https://linkedin.com/in/anandashevahidayat" target="blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
+<a href="https://instagram.com/shevaananda_" target="blank"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="instagram logo"  />
+<a href="https://medium.com/@sheva1257" target="blank"> <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="medium logo"  />
+</div>
 
-##                                         
+###                                         
 <h3 align="left">💻 Tech Stack:</h3>
-<p align="left">
-<a href="https://www.w3schools.com/js/" target="blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" alt="js" width="40" height="40"/></a>
-<a href="https://www.python.org/" target="blank"> <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="python" width="40" height="40"/></a> 
-<a href="https://www.php.net/" target="blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" alt="php" width="40" height="40"/></a>
-<a href="https://dev.mysql.com/" target="blank"> <img src="https://cdn.worldvectorlogo.com/logos/mysql-logo-pure.svg" alt="mysql" width="40" height="40"/> </a>
-<p align="left">
-<a href="https://laravel.com/" target="blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" alt="laravel" width="40" height="40"/></a>
-<a href="https://react.dev/" target="blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/30/React_Logo_SVG.svg" alt="reactjs" width="40" height="40"/></a>
-<a href="https://expressjs.com/" target="blank"> <img src="https://adware-technologies.s3.amazonaws.com/uploads/technology/thumbnail/20/express-js.png" alt="expressjs" width="40" height="40"/></a>
-<a href="https://www.tensorflow.org/" target="blank"> <img src="https://cdn.worldvectorlogo.com/logos/tensorflow-2.svg" alt="TensorFlow" width="40" height="40"/></a>
+<div align="left">
+<a href="https://www.w3schools.com/js/" target="blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="40" alt="javascript logo"  /><img width="12" />
+<a href="https://www.php.net/" target="blank"><img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=black&style=for-the-badge" height="40" alt="php logo"  /><img width="12" />
+<a href="https://www.python.org/" target="blank"><img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="40" alt="python logo"  /><img width="12" />
+<a href="https://react.dev/" target="blank"><img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" height="40" alt="react logo"  /><img width="12" />
+<a href="https://expressjs.com/" target="blank"><img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white&style=for-the-badge" height="40" alt="express logo"  /><img width="12" />
+<a href="https://laravel.com/" target="blank"><img src="https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white&style=for-the-badge" height="40" alt="laravel logo"  /><img width="12" />
+<a href="https://www.tensorflow.org/" target="blank"><img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=black&style=for-the-badge" height="40" alt="tensorflow logo"  />
+</div>
 
 ##
 <h3 align="left">🕹 Github Stats:</h3>
