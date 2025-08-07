@@ -3,7 +3,7 @@
 - 👀 I’m interested in Software Developer, Cloud and Machine Learning
 - 🌱 I’m currently learning DeepLearning
 - 💬 Ask me about anything
-- 📫 How to reach me: sheva1257@gmail.com or +62-857-0956-7374
+- 📫 Reach me at sheva1257@gmail.com or +62-857-0956-7374
   
 ##
 <h3 align="left">🔗 Connect with me:</h3>
