@@ -1,6 +1,6 @@
 ## Hi there, im Sheva <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px">
 
-- 👀 I’m interested in Software Developer, Data and Machine Learning
+- 👀 I’m interested in Software Developer, Data, AI, and Machine Learning
 - 🌱 I’m currently learning DeepLearning
 - 💬 Ask me about anything
 - 📫 Reach me at sheva1257@gmail.com or +62-857-0956-7374
